@@ -7,4 +7,4 @@ few verilog codes and vivado files for the verilog learning marathon that i'm do
 6. traffic light on boolean board
 7. bcd adder
 8. half adder in vhdl
-9. 
+9. mux
